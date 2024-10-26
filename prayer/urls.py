@@ -1,7 +1,7 @@
 from django.urls import path
 
-from . import views
+from prayer.views import Index
 
 urlpatterns = [
-    path("", views.index, name='prayers-index')
+    path("", Index.as_view(), name='prayers-index')
 ]
