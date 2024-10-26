@@ -1,0 +1,55 @@
+//Colors
+
+
+
+// Primary
+$primary-100: hsl(11, 100%, 98%);
+$primary-200:hsl(11, 100%, 83%);
+$primary-300:hsl(11, 100%, 73%);
+$primary-400:hsl(11, 100%, 68%);
+$primary-color: hsl(11, 100%, 63%);
+$primary-500: $primary-color;
+$primary-600:hsl(11, 100%, 53%);
+$primary-700:hsl(11, 100%, 48%);
+$primary-800: hsl(11, 100%, 33%);
+$primary-900:hsl(11, 100%, 23%);
+
+//Secondary
+$secondary-100: hsl(205, 79%, 90%);
+$secondary-200: hsl(205, 79%, 80%);
+$secondary-300: hsl(205, 79%, 70%);
+$secondary-400: hsl(205, 79%, 60%);
+$secondary-color: hsl(205, 79%, 50%);
+$secondary-500: $secondary-color;
+$secondary-600:hsl(205, 79%, 40%);
+$secondary-700:hsl(205, 79%, 30%);
+$secondary-800:hsl(205, 79%, 20%);
+$secondary-900:hsl(205, 79%, 10%);
+
+//Warning
+$warning-100: hsl(348, 92%, 90%);
+$warning-200: hsl(348, 92%, 80%);
+$warning-300: hsl(348, 92%, 70%);
+$warning-400: hsl(348, 92%, 60%);
+$warning-color: hsl(348, 92%, 50%);
+$warning-500: $warning-color;
+$warning-600: hsl(348, 92%, 40%);
+$warning-700: hsl(348, 92%, 30%);
+$warning-800: hsl(348, 92%, 20%);
+$warning-900: hsl(348, 92%, 10%);
+
+//Light 
+$light-100: hsl(14, 100%, 98%);
+$light-200: hsl(14, 100%, 90%);
+$light-300: hsl(14, 100%, 85%);
+$light-400: hsl(14, 100%, 80%);
+$light-color: hsl(14, 100%, 94%);
+
+
+//Dark
+$dark-color: hsl(31, 39%, 21%);
+$dark-500: $dark-color;
+$dark-600: hsl(31, 39%, 18%);
+$dark-700: hsl(31, 39%, 15%);
+$dark-800: hsl(31, 39%, 10%);
+$dark-900: hsl(31, 39%, 5%);

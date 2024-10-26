@@ -2,6 +2,7 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
-    path('', include("prayer.urls")),
+    path('', include("general.urls")),
+    path('prayer/', include("prayer.urls")),
     path('admin/', admin.site.urls),
 ]
